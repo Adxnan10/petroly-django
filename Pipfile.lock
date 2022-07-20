@@ -344,11 +344,11 @@
         },
         "strawberry-graphql": {
             "hashes": [
-                "sha256:1d1ae1f8e2646f5fbae54c60770cec558436a4dc2099217c94d5dc72f9cdef74",
-                "sha256:bfe720035a36f199aa4cdfdc51e5ecd891ae86d160946744d7c6551347e49c04"
+                "sha256:15b7bed3b629556cc3eac3b877cdc113365fcfd2c2e8b2625fa7ff4b5f9e0ffb",
+                "sha256:7603022d96509fcd5a80e6ea4e22657b51970853a36d2a790212186fbb72f3c6"
             ],
             "index": "pypi",
-            "version": "==0.119.0"
+            "version": "==0.119.1"
         },
         "strawberry-graphql-django": {
             "hashes": [
